@@ -1,0 +1,12 @@
+C:\Users\nicla\Desktop\Temp\Skip-Bo_C#\Skip-Bo\bin\Release\Skip-Bo.exe.config
+C:\Users\nicla\Desktop\Temp\Skip-Bo_C#\Skip-Bo\bin\Release\Skip-Bo.exe
+C:\Users\nicla\Desktop\Temp\Skip-Bo_C#\Skip-Bo\bin\Release\Skip-Bo.pdb
+C:\Users\nicla\Desktop\Temp\Skip-Bo_C#\Skip-Bo\bin\Release\WindowsBase.dll
+C:\Users\nicla\Desktop\Temp\Skip-Bo_C#\Skip-Bo\obj\Release\Skip-Bo.csprojAssemblyReference.cache
+C:\Users\nicla\Desktop\Temp\Skip-Bo_C#\Skip-Bo\obj\Release\Skip_Bo.Form1.resources
+C:\Users\nicla\Desktop\Temp\Skip-Bo_C#\Skip-Bo\obj\Release\Skip_Bo.Properties.Resources.resources
+C:\Users\nicla\Desktop\Temp\Skip-Bo_C#\Skip-Bo\obj\Release\Skip-Bo.csproj.GenerateResource.cache
+C:\Users\nicla\Desktop\Temp\Skip-Bo_C#\Skip-Bo\obj\Release\Skip-Bo.csproj.CoreCompileInputs.cache
+C:\Users\nicla\Desktop\Temp\Skip-Bo_C#\Skip-Bo\obj\Release\Skip-Bo.csproj.CopyComplete
+C:\Users\nicla\Desktop\Temp\Skip-Bo_C#\Skip-Bo\obj\Release\Skip-Bo.exe
+C:\Users\nicla\Desktop\Temp\Skip-Bo_C#\Skip-Bo\obj\Release\Skip-Bo.pdb

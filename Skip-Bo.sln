@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skip-Bo_textbasiert", "..\Skip-Bo_textbasiert\Skip-Bo_textbasiert.csproj", "{9770583B-23AD-4F4C-9B0B-F46970578FBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skip-Bo", "Skip-Bo.csproj", "{D7B69BA1-8BEC-4BBC-B467-91685C0C95F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9770583B-23AD-4F4C-9B0B-F46970578FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9770583B-23AD-4F4C-9B0B-F46970578FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9770583B-23AD-4F4C-9B0B-F46970578FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9770583B-23AD-4F4C-9B0B-F46970578FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7B69BA1-8BEC-4BBC-B467-91685C0C95F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B69BA1-8BEC-4BBC-B467-91685C0C95F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B69BA1-8BEC-4BBC-B467-91685C0C95F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B69BA1-8BEC-4BBC-B467-91685C0C95F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A5117B0-4DB8-44F7-88CE-CBEAA44F4639}
+	EndGlobalSection
+EndGlobal
